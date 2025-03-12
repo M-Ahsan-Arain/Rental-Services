@@ -480,4 +480,10 @@
         margin-left: 30%;
     }
 
+    .s-7-btn.py-3 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
 }
