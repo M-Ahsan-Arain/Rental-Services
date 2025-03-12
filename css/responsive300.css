@@ -2,6 +2,12 @@
 
 
 @media (min-width: 300px) and (max-width: 519px) {
+    body {
+        font-family: montserrat-regular !important;
+        margin: 0;
+        overflow-x: hidden;
+    }
+
 
     .nav-bar {
         padding: 0 0;
