@@ -198,6 +198,14 @@
         font-size: smaller;
     }
 
+    .s-6-slider .card.s-6-card1,
+    .card.s-6-card2,
+    .card.s-6-card3,
+    .card.s-6-card4 {
+        width: 16rem;
+        margin: 0 0 20px 0;
+    }
+
     .card.s-6-card1,
     .card.s-6-card2,
     .card.s-6-card3,
