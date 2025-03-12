@@ -60,7 +60,7 @@
     }
 
     .s-2-btn2-parent {
-        margin-left: 35px;
+        margin: auto;
     }
 
 
@@ -80,7 +80,7 @@
 
     .services-slider.slick-initialized.slick-slider {
         position: absolute;
-        left: 25px;
+        left: 10%;
         padding: 20px 0;
     }
 
@@ -134,7 +134,7 @@
 
 
     .test-img-parent {
-        margin-left: 75px;
+        margin-left: 28%;
     }
 
     .testimonials.slick-initialized.slick-slider button.slick-next.slick-arrow {
@@ -178,7 +178,7 @@
     }
 
     .s-5-content {
-        height: 100vh;
+        height: 70vh;
         background-size: cover;
     }
 
@@ -315,9 +315,9 @@
     }
 
     .footer-content {
-        padding: 220px 0 0 0;
+        padding: 0 0 0 0;
         color: white;
-        height: 260vh;
+        height: 145vh;
         background-size: cover;
         width: 100%;
     }
@@ -438,8 +438,13 @@
         gap: 1rem !important;
     }
 
+    .s-3 {
+        height: 60vh;
+    }
 
-
+    .s-6-slider.slick-initialized.slick-slider {
+        padding: 40px 6%;
+    }
 
 
 
