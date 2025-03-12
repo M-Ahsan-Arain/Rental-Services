@@ -21,7 +21,7 @@
 
     .s-1-contents {
         color: white;
-        padding: 58px 0 0 0;
+        padding: 118px 0 0 0;
         text-align: center;
         height: 60vh;
     }
@@ -42,8 +42,8 @@
     }
 
     button.s-1-btn {
-        padding: 5px 13px;
-        font-size: xx-small;
+        padding: 15px 60px;
+        font-size: 1.0rem;
     }
 
     section.s-2 {
