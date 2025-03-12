@@ -88,8 +88,8 @@
 
     .services-slider.slick-initialized.slick-slider {
         position: absolute;
-        left: 10%;
-        padding: 20px 0;
+        left: unset;
+        padding: 20px 52px;
     }
 
     .card-body {
