@@ -455,6 +455,8 @@
     }
 
 
-
+    div#navbarNav button {
+        margin-left: 30%;
+    }
 
 }
